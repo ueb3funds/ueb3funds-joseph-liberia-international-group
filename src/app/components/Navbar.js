@@ -11,7 +11,7 @@ export default function Navbar() {
         
         {/* Logo */}
         <Link href="/" className="text-2xl font-bold text-red-600">
-          Joseph Liberia Intl
+          Joseph Liberia International Group
         </Link>
 
         {/* Desktop Menu */}
