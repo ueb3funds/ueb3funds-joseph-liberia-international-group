@@ -29,6 +29,10 @@ export default function AboutSection() {
               <p className="text-gray-500">Funds Managed</p>
             </div>
             <div>
+              <h3 className="text-3xl font-bold text-red-600">20%</h3>
+              <p className="text-gray-500">Contract Loans</p>
+            </div>
+            <div>
               <h3 className="text-3xl font-bold text-red-600">98%</h3>
               <p className="text-gray-500">Client Satisfaction</p>
             </div>
