@@ -25,7 +25,7 @@ export default function AboutSection() {
               <p className="text-gray-500">Active Investors</p>
             </div>
             <div>
-              <h3 className="text-3xl font-bold text-red-600">$150,000.00+</h3>
+              <h3 className="text-3xl font-bold text-red-600">$150,000+</h3>
               <p className="text-gray-500">Funds Managed</p>
             </div>
             <div>
