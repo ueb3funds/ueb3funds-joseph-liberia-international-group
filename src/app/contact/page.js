@@ -1,11 +1,10 @@
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+
 import ContactForm from "../components/ContactForm";
 
 export default function ContactPage() {
   return (
     <>
-      <Navbar />
+  
 
       <section className="py-24 bg-gray-50">
         <div className="max-w-4xl mx-auto px-6">
@@ -17,7 +16,6 @@ export default function ContactPage() {
         </div>
       </section>
 
-      <Footer />
     </>
   );
 }

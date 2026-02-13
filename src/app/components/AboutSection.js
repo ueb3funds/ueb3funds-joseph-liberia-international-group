@@ -17,15 +17,15 @@ export default function AboutSection() {
 
           <div className="grid grid-cols-2 gap-6 mt-8">
             <div>
-              <h3 className="text-3xl font-bold text-red-600">10+</h3>
+              <h3 className="text-3xl font-bold text-red-600">2+</h3>
               <p className="text-gray-500">Years Experience</p>
             </div>
             <div>
-              <h3 className="text-3xl font-bold text-red-600">5K+</h3>
+              <h3 className="text-3xl font-bold text-red-600">35+</h3>
               <p className="text-gray-500">Active Investors</p>
             </div>
             <div>
-              <h3 className="text-3xl font-bold text-red-600">$20M</h3>
+              <h3 className="text-3xl font-bold text-red-600">$150,000.00+</h3>
               <p className="text-gray-500">Funds Managed</p>
             </div>
             <div>
